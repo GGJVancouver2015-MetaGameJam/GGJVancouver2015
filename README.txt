@@ -1,1 +1,3 @@
-Let's make something presentable so i can use it in interviews.
+#Readme
+
+Game made in Unity. To play the game, run the executable file.
