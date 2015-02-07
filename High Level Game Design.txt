@@ -1,0 +1,59 @@
+IDEAS:
+META: Put it in LSC - Security guard
+Goal?
+
+Storyline:
+No game jam badge
+
+Trying to avoid security guard!
+
+
+To get two sandwhiches 
+- spaced apart
+
+
+BIG IDEAS:
+Layout, Sprite , Geneal UI, Game Conditions, AUdio
+
+Layout:
+	- LSC
+		- Rectangular
+		- Entrance/Exits need to define
+		- Location for goals
+
+Sprite:
+	Static:
+		- Tables
+		- Chairs
+		- Sandwhich/Goal
+		- Laptop COmputer
+		- PowerBar/wires
+		- audio/screen
+		- 
+	Dynamic:
+		- Security Guard
+		- You
+		- Game Jammers
+		- Volunteer/Staff
+			- follow them
+	
+General UI
+	 - layout
+	 - landing page
+	 - level progression(?)
+
+Game Conditions:
+	- Winning
+		- you grab one sandwhich and exit without getting caught
+			- what if caught by volunteer/staff vs seucrity etc
+		- enter /exit from same or different? does it matter?
+	- Losing
+		- get caught by security guard or ganged up by staff?
+
+Audio:
+	- Game music?
+	- getting caught
+	- volunteer struggle?
+	- volunter following/yelling
+	
+	

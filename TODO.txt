@@ -1,0 +1,7 @@
+TODO:
+
+AI needs to be fixed, better movement
+AI needs to be fixed - better movement not really random
+need to be decoupled? independent movement
+Erica - Layout
+Austin - Compile, Implement 2D triggers
